@@ -29,3 +29,14 @@ variables.
 Other variables, such as state-ordered facemask mandates, state-of-emergency declarations, percentage of
 people over 65, and percentage of the population living in poverty, will also be considered as covariates that
 could further explain the causes for the number of cases by state.
+
+
+requirements:
+
+- R Studio
+- readxl
+- stargazer
+- lmtest
+- sandwich 
+- ggplot
+- 
