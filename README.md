@@ -33,15 +33,15 @@ could further explain the causes for the number of cases by state.
 
 requirements:
 
-`R Studio
+- R Studio
 
-readxl
+- readxl
 
-stargazer
+- stargazer
 
-lmtest
+- lmtest
 
-sandwich 
+- sandwich 
 
-ggplot`
+- ggplot
  
